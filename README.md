@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kawthar
 
-<!--
-**kawthar-boukahil-eng/kawthar-boukahil-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a junior software engineer and an innovative problem-solver. I thrive on challenges and love coding while listening to Eminem's masterpieces. Currently, I’m focused on building our own startup! 🚀
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🇩🇿 Based in Algeria
+- 🎓 Graduated with a Master’s in Software Engineering
+- 💻 Skills: PHP, Python, HTML, CSS, Bootstrap, Java, Machine Learning, SQL, and more
+- 🔍 Currently working on an IoT-based innovative startup project
+- 💡 Always looking for creative solutions to big problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Get in Touch
+Feel free to reach out if you want to connect or collaborate!
+- Email: [kawthar.boukahil@univ-constantine2.dz](mailto:kawthar.boukahil@univ-constantine2.dz)
+  
+## Fun fact:
+I turn caffeine into code and solve algorithms faster than Eminem delivers his verses🤞🤓
+
