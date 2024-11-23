@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kawthar
 
-I’m a junior software engineer, co-founder of GuardIQ, and an innovative problem-solver. I thrive on challenges and love coding while listening to Eminem's masterpieces. Currently, I’m focused on building our own startup! 🚀
+I’m a junior software engineer, co-founder of "GuardIQ", and an innovative problem-solver. I thrive on challenges and love coding while listening to Eminem's masterpieces. Currently, I’m focused on building our own startup! 🚀
 
 ## 🌱 About Me
 - 🇩🇿 Based in Algeria
